@@ -73,8 +73,6 @@ why it works fine with the Node.js ecosystem, read this small article: [Flat nod
 
 💖 Like this project? Let people know with a [tweet](https://r.pnpm.io/tweet)
 
-## Getting Started
-
 - [Installation](https://pnpm.io/installation)
 - [Usage](https://pnpm.io/pnpm-cli)
 - [Frequently Asked Questions](https://pnpm.io/faq)
